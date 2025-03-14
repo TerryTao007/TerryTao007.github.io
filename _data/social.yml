@@ -1,9 +1,9 @@
 - title: Email
   url: mailto://terrytao2009@gmail.com
   icon: fas fa-envelope
-- title: X
+- title: Twitter
   url: https://twitter.com/
-  icon: fas fa-square-x-twitter
+  icon: fab fa-twitter
 - title: GitHub
   url: https://github.com/TerryTao007?tab=repositories
   icon: fas fab fa-github
