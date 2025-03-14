@@ -1,9 +1,12 @@
 - title: Email
-  url: mailto://vszhub@gmail.com
+  url: mailto://terrytao2009@gmail.com
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/vszhub
-  icon: fab fa-twitter
+- title: X
+  url: https://twitter.com/
+  icon: fa-x-twitter
 - title: GitHub
   url: https://github.com/vszhub/not-pure-poole
   icon: fab fa-github
+- title: 小黑盒
+  url: https://www.xiaoheihe.cn/app/bbs/home
+  icon: fa-box-open
