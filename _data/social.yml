@@ -3,7 +3,7 @@
   icon: fas fa-envelope
 - title: X
   url: https://twitter.com/
-  icon: fas fa-x-twitter
+  icon: fas fa-square-x-twitter
 - title: GitHub
   url: https://github.com/vszhub/not-pure-poole
   icon: fas fab fa-github
