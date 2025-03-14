@@ -5,8 +5,8 @@
   url: https://twitter.com/
   icon: fas fa-square-x-twitter
 - title: GitHub
-  url: https://github.com/vszhub/not-pure-poole
+  url: https://github.com/TerryTao007?tab=repositories
   icon: fas fab fa-github
 - title: 小黑盒
-  url: https://www.xiaoheihe.cn/app/bbs/home
+  url: https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=65376fd15cec
   icon: fas fa-box-open
